@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.EntityFrameworkCore;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
@@ -16,5 +17,5 @@ namespace IbankLogin.Models
         public int Agencia { get; set; }
         public int Conta { get; set; }
         public int Senha { get; set; }
-        }
+    }
 }
