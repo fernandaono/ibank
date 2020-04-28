@@ -11,5 +11,6 @@
     <WebStackScaffolding_LayoutPageFile />
     <WebStackScaffolding_DbContextTypeFullName>IbankLogin.Data.IbankLoginContext</WebStackScaffolding_DbContextTypeFullName>
     <WebStackScaffolding_IsAsyncSelected>False</WebStackScaffolding_IsAsyncSelected>
+    <NameOfLastUsedPublishProfile>IbankLogin20200427194521 - Web Deploy</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>
